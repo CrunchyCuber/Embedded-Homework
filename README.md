@@ -1,2 +1,2 @@
-# Embedded-Homework
-Embedded Class 2024 Code 
+# Embedded-Labs
+Embedded Class 2024 Code for Labs
